@@ -435,7 +435,7 @@ Footer
   transition: var(--transition);
 }
 .footer-icon:hover {
-  color: var(--clr-primary-5);
+  color: var(--clr-primary-1);
 }
 .copyright {
   text-transform: capitalize;
